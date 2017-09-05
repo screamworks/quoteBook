@@ -1,0 +1,45 @@
+body {
+  background-color: #F2F2F2;
+}
+
+
+p {
+
+ text-align: center;
+ font-size: 18pt;
+ font-family: 'Roboto Slab', serif;
+ margin-top: 40px;
+
+
+}
+
+
+
+.center {
+  margin-top: 50px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.head {
+  font-family: 'Roboto Slab', serif;
+  font-size: 12pt;
+}
+
+button {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    background-color: #538fbe;
+    padding: 1px 5px;
+    font-size: 7pt;
+    border: 1px solid #2d6898;
+    background-image: linear-gradient(bottom, rgb(73,132,180) 0%, rgb(97,155,203) 100%);
+    background-image: -o-linear-gradient(bottom, rgb(73,132,180) 0%, rgb(97,155,203) 100%);
+    background-image: -moz-linear-gradient(bottom, rgb(73,132,180) 0%, rgb(97,155,203) 100%);
+    background-image: -webkit-linear-gradient(bottom, rgb(73,132,180) 0%, rgb(97,155,203) 100%);
+    background-image: -ms-linear-gradient(bottom, rgb(73,132,180) 0%, rgb(97,155,203) 100%);
+    border-radius: 20%;
+
+}
